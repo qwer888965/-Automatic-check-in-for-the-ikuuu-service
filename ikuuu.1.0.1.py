@@ -13,7 +13,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # 4. 刷新页面（F5）
 # 5. 点击第一个请求，在"请求标头"中找到 Cookie
 # 6. 把下面的内容替换成你复制的 Cookie
-COOKIE_STRING = "PHPSESSID=cadd312pj42honk36c8le93ldo; _gid=GA1.2.1455782966.1784903986; uid=2289517; email=wangwangrui871%40gmail.com; key=7d9af6b3f50f43d5c19ea621b2543a8b33b491ff87162; ip=e3b6ca3685ffe7daff121be6836dd91a; expire_in=1784990902; _ga_8HVN7928SC=GS2.1.s1784903985$o3$g1$t1784904688$j60$l0$h0; _ga=GA1.1.1965509643.1779656143"
+COOKIE_STRING = "请替换为你的 Cookie 字符串"
 SIGN_URL = "https://ikuuu.win/user/checkin"
 USER_URL = "https://ikuuu.win/user"
 TRAFFIC_XPATH = 'xpath=/html/body/div[2]/div/div[3]/section/div[3]/div[2]/div/div[2]/div[2]/span'
